@@ -1,3 +1,3 @@
 # hello-world
 hello world
-learn github
+i'm john.
